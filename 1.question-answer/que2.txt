@@ -1,0 +1,10 @@
+3. What is the difference between OOP and POP?
+
+Procedure-oriented Programming(POP) and Object-oriented programming(OOP) both are the programming approaches, which uses high-level language for programming. 
+
+A program can be written in both the languages, but if the task is highly complex, OOP operates well as compared to POP. 
+
+In POP, the ‘data security’ is at risk as data freely moves in the program, as well as, ‘code reusability’ is not achieved which makes the programming lengthy, and hard to understand.
+
+
+
